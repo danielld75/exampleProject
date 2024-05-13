@@ -1,0 +1,1 @@
+export { GeneratorOfComponents } from "./GeneratorOfComponents";
